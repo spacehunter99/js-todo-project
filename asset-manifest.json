@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/js-todo-project/static/css/main.7009f6fb.css",
+    "main.js": "/js-todo-project/static/js/main.43ac1ab8.js",
+    "static/js/787.a5cad257.chunk.js": "/js-todo-project/static/js/787.a5cad257.chunk.js",
+    "static/media/todo-image-2.png": "/js-todo-project/static/media/todo-image-2.7fc08a43a7a2767963e7.png",
+    "index.html": "/js-todo-project/index.html",
+    "main.7009f6fb.css.map": "/js-todo-project/static/css/main.7009f6fb.css.map",
+    "main.43ac1ab8.js.map": "/js-todo-project/static/js/main.43ac1ab8.js.map",
+    "787.a5cad257.chunk.js.map": "/js-todo-project/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7009f6fb.css",
+    "static/js/main.43ac1ab8.js"
+  ]
+}
